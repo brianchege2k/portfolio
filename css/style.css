@@ -1,7 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+
 #nav-list {
     background-color: #333;
     padding: 10px 0;
@@ -29,11 +26,9 @@
     text-decoration: underline;
 }
 
-
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-
 }
 
 .container {
@@ -65,13 +60,10 @@ img {
     display: flex; 
     flex-wrap: wrap; 
 }
-
 #projects .project {
     flex: 1 1 300px;
     margin: 10px; 
 }
-
-
 form {
     display: flex;
     flex-direction: column;
